@@ -1,2 +1,3 @@
-# GAN_series
-Implementing GANs from scratch
+### IMPLEMENTING GANs FROM SCRATCH:
+
+
