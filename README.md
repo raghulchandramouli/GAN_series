@@ -9,3 +9,6 @@ Fully Convolutional GANs (FC-GANs) extend the principles of convolutional neural
 ## DCGANs:
 Deep Convolutional Generative Adversarial Networks (DCGANs) are a variant of GANs designed specifically for image generation tasks. DCGANs utilize convolutional layers in both the generator and discriminator, making them highly effective in capturing spatial hierarchies and patterns in image data.
 
+## W-GANs:
+Wasserstein Generative Adversarial Networks (W-GANs) represent a variant of traditional GANs designed to overcome challenges such as mode collapse and training instability. The key innovation lies in using the Wasserstein distance as the metric for training, providing a more meaningful and stable objective compared to the original GAN formulation.
+
