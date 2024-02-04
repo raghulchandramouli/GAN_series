@@ -12,3 +12,6 @@ Deep Convolutional Generative Adversarial Networks (DCGANs) are a variant of GAN
 ## W-GANs:
 Wasserstein Generative Adversarial Networks (W-GANs) represent a variant of traditional GANs designed to overcome challenges such as mode collapse and training instability. The key innovation lies in using the Wasserstein distance as the metric for training, providing a more meaningful and stable objective compared to the original GAN formulation.
 
+## CGANS:
+Conditional Generative Adversarial Networks open up a world of possibilities in the realm of generative models. Whether you're interested in creating art, enhancing datasets, or translating between domains, CGANs provide a powerful framework for controlled and targeted data generation.
+
